@@ -1,0 +1,35 @@
+#layout-header{
+    nav{
+        display: flex;
+        justify-content: space-between;
+        padding: 0 10px;
+        background: #0040ff;
+        color: white;
+
+        .logo{
+            p{
+                margin: 5px;
+                font-size: 2rem;
+                font-weight: bold;
+            }
+        }
+
+        .links{
+            ul{
+                margin: 5% 5px;
+                display: flex;
+
+                li{
+                    margin-right: 30px;
+                    font-size: large;
+                }
+            }
+        }
+
+        a{
+            color: white;
+            text-decoration: none;
+        }
+
+    }
+}

@@ -1,0 +1,20 @@
+#layout-footer{
+    color: white;
+    a{
+        color: white;
+        text-decoration: none;
+        font-size: 1.5rem;
+    }
+
+    background: grey;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: flex-start;
+    font-size: 1.3rem;
+
+    .footer{
+        ul{
+            list-style: none;
+        }
+    }
+}
